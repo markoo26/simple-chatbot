@@ -5,6 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "langchain-anthropic>=0.3.0",
+    "langchain-core>=0.3.0",
+    "langgraph>=0.2.57",
+    "langgraph-cli>=0.4.12",
     "nltk>=3.9.2",
     "numpy>=2.4.2",
     "pinecone>=8.0.1",
