@@ -1,1 +1,7 @@
 *.env
+uv.lock
+.claude/settings.json
+.langgraph_api/*
+__pycache__/main.cpython-313.pyc
+simplechatbot.egg-info/*
+
